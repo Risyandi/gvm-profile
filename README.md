@@ -1,2 +1,2 @@
 # gvm-profile
-this is repository for sites static about company profile
+this is repository for static sites about company profile
